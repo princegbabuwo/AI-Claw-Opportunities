@@ -33,5 +33,13 @@ When the user approves an opportunity:
 3. process one opportunity at a time
 4. if any answer is missing or uncertain, ask the user exact follow-up questions before submitting
 
+## Standing eligibility rule
+- Do not apply for women-only opportunities for Motherland AI.
+- Treat programs limited to women founders, female-led startups, or equivalent women-only eligibility as ineligible unless the user says otherwise.
+- Motherland AI founders are not women.
+
+## Documentation maintenance
+- When the user provides new eligibility, exclusion, or preference information relevant to funding, update the funding files/documentation in this folder as part of the workflow, not just the chat response.
+
 ## WhatsApp delivery
 Daily shortlist and follow-up questions should be sent to the user's WhatsApp once that channel is linked in OpenClaw.

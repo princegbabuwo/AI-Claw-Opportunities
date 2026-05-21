@@ -51,8 +51,12 @@ The agent should ask for any missing or uncertain information before submitting 
 
 ## Preferences
 - Opportunities to prioritize:
-- Opportunities to avoid:
+- Opportunities to avoid: Women-only opportunities. Do not apply for programs restricted to women founders/women-led teams unless the eligibility facts change.
 - Risk tolerance for incomplete applications:
+
+## Eligibility notes
+- Motherland AI founders are not women.
+- Therefore, do not pursue women-only / female-founder-only opportunities for Motherland AI unless the program explicitly allows non-women founders or the company eligibility changes.
 
 ## Agent instruction
 If any field above is missing, stale, or uncertain, ask the user before submitting.

@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "lastUpdated": null,
+  "lastUpdated": "2026-05-21",
   "explicitOpportunityExclusions": [],
-  "themeExclusions": [],
-  "notes": []
+  "themeExclusions": [
+    {
+      "theme": "women-only opportunities",
+      "reason": "Motherland AI founders are not women; do not apply for programs restricted to women founders or women-led teams unless eligibility changes or the program explicitly allows non-women founders.",
+      "source": "user instruction 2026-05-21"
+    }
+  ],
+  "notes": [
+    "When the user provides funding-relevant eligibility or exclusion information, update the funding documentation proactively."
+  ]
 }
