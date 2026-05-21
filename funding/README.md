@@ -9,6 +9,7 @@ This folder tracks the AI funding opportunity workflow.
 - `exclusions.json` — opportunities or themes to avoid in future
 - `application-queue.json` — opportunities approved for application
 - `search-notes.md` — operating rules for the daily search + messaging flow
+- `rss-keywords.md` — saved Google News RSS keyword/query set for daily opportunity discovery
 
 ## Intended Flow
 
