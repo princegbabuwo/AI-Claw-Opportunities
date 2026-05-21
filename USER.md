@@ -11,9 +11,10 @@ _Learn about the person you're helping. Update this as you go._
 ## Context
 
 - OpenClaw environment runs in Docker.
+- User's home path is `/home/prince`, not `/home/node`.
 - For browser automation / Playwright setup, prefer the Docker-safe install path:
-  `docker compose run --rm openclaw-cli node /app/node_modules/playwright-core/cli.js install chromium`
-- Keep Playwright browser cache under a persisted `/home/node` path via `PLAYWRIGHT_BROWSERS_PATH` and a persisted home volume.
+  `docker compose run --rm --entrypoint node openclaw-cli /app/node_modules/playwright-core/cli.js install chromium`
+- Keep Playwright browser cache under a persisted path, and avoid assuming `/home/node`; prefer the user's actual host path conventions where relevant.
 
 _(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
 

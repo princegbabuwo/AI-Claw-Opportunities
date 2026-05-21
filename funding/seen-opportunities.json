@@ -1,5 +1,50 @@
 {
   "version": 1,
-  "lastUpdated": null,
-  "items": []
+  "lastUpdated": "2026-05-21T22:06:00Z",
+  "items": [
+    {
+      "code": "LGA",
+      "title": "LINGUA Africa Open Call for Inclusive AI Language Projects",
+      "normalizedTitle": "lingua africa open call inclusive ai language projects",
+      "organizer": "Microsoft AI for Good Lab, Gates Foundation, Masakhane African Languages Hub, Google.org",
+      "region": "Africa",
+      "type": "Grant / open call",
+      "deadline": "2026-06-15",
+      "officialUrl": "https://www.microsoft.com/en-us/research/academic-program/lingua-africa-open-call-for-inclusive-ai-language-projects/",
+      "notes": "Supports startups and other orgs building African language datasets, models, tools, and sector applications with cash plus compute credits."
+    },
+    {
+      "code": "EIC",
+      "title": "EIC Accelerator",
+      "normalizedTitle": "eic accelerator",
+      "organizer": "European Innovation Council",
+      "region": "EU / eligible associated countries",
+      "type": "Grant / equity accelerator",
+      "deadline": "2026-07-08",
+      "officialUrl": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+      "notes": "Deep-tech funding route for high-risk, high-impact startups and SMEs, including AI companies; next 2026 batching date is 8 July 2026."
+    },
+    {
+      "code": "M7A",
+      "title": "MEST AI Startup Program 2027",
+      "normalizedTitle": "mest ai startup program 2027",
+      "organizer": "MEST",
+      "region": "West and East Africa",
+      "type": "AI startup program / pre-seed accelerator",
+      "deadline": "2026-07-20",
+      "officialUrl": "https://meltwater.org/mest-ai-startup-program/",
+      "notes": "Fully sponsored AI entrepreneurship training in Accra, followed by incubation and up to $100,000 in pre-seed investment for top teams."
+    },
+    {
+      "code": "WTA",
+      "title": "Women in Tech Accelerator 2026",
+      "normalizedTitle": "women in tech accelerator 2026",
+      "organizer": "Village Capital and Standard Chartered Foundation",
+      "region": "Africa + selected other markets",
+      "type": "Accelerator / grants",
+      "deadline": "Unknown",
+      "officialUrl": "https://vilcap.com/programs/women-in-tech-accelerator-2026",
+      "notes": "Supports women-led, tech-enabled startups in Botswana, Ghana, Kenya, Nigeria, South Africa, Uganda, and Zambia with training, networks, and a share of over USD 600K in grants across 12 markets."
+    }
+  ]
 }
