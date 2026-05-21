@@ -40,6 +40,7 @@ When the user approves an opportunity:
 
 ## Documentation maintenance
 - When the user provides new eligibility, exclusion, or preference information relevant to funding, update the funding files/documentation in this folder as part of the workflow, not just the chat response.
+- Keep debug coverage broad and inspectable: funding runs should log searches performed, result counts, candidate approvals/rejections, and reasons in workspace log files.
 
 ## WhatsApp delivery
 Daily shortlist and follow-up questions should be sent to the user's WhatsApp once that channel is linked in OpenClaw.

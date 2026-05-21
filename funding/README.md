@@ -10,6 +10,8 @@ This folder tracks the AI funding opportunity workflow.
 - `application-queue.json` — opportunities approved for application
 - `search-notes.md` — operating rules for the daily search + messaging flow
 - `rss-keywords.md` — saved Google News RSS keyword/query set for daily opportunity discovery
+- `run-logging.md` — schema/rules for detailed per-run audit logs
+- `logs/` — per-run funding search audit logs (`latest.json` + timestamped run files)
 
 ## Intended Flow
 
